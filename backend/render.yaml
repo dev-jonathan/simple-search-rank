@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: simple-search-rank-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python -m spacy download pt_core_news_md
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DOWNLOAD_PDFS
+        value: false
+      - key: CORPUS_PATH
+        value: ../pdf_dataset
+      - key: FRONTEND_URL
+        sync: false
+        # Configurar manualmente com URL do Vercel após deploy
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    # Diretório raiz: backend/
+    rootDir: backend
+
