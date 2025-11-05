@@ -1,0 +1,770 @@
+[
+  {
+    "id": "doc_1",
+    "title": "Adele",
+    "title_raw": "Adele",
+    "filename": "Adele.pdf",
+    "text_length": 140438,
+    "term_count": 3500
+  },
+  {
+    "id": "doc_2",
+    "title": "Administração",
+    "title_raw": "Administração",
+    "filename": "Administração.pdf",
+    "text_length": 23516,
+    "term_count": 879
+  },
+  {
+    "id": "doc_3",
+    "title": "Albert Einstein",
+    "title_raw": "Albert_Einstein",
+    "filename": "Albert_Einstein.pdf",
+    "text_length": 113644,
+    "term_count": 3553
+  },
+  {
+    "id": "doc_4",
+    "title": "Alemanha",
+    "title_raw": "Alemanha",
+    "filename": "Alemanha.pdf",
+    "text_length": 163299,
+    "term_count": 4639
+  },
+  {
+    "id": "doc_5",
+    "title": "Amor",
+    "title_raw": "Amor",
+    "filename": "Amor.pdf",
+    "text_length": 110572,
+    "term_count": 3805
+  },
+  {
+    "id": "doc_6",
+    "title": "Anderson Silva",
+    "title_raw": "Anderson_Silva",
+    "filename": "Anderson_Silva.pdf",
+    "text_length": 55305,
+    "term_count": 1526
+  },
+  {
+    "id": "doc_7",
+    "title": "Aquecimento global",
+    "title_raw": "Aquecimento_global",
+    "filename": "Aquecimento_global.pdf",
+    "text_length": 286151,
+    "term_count": 6555
+  },
+  {
+    "id": "doc_8",
+    "title": "Aristóteles",
+    "title_raw": "Aristóteles",
+    "filename": "Aristóteles.pdf",
+    "text_length": 72268,
+    "term_count": 2484
+  },
+  {
+    "id": "doc_9",
+    "title": "Avril Lavigne",
+    "title_raw": "Avril_Lavigne",
+    "filename": "Avril_Lavigne.pdf",
+    "text_length": 123570,
+    "term_count": 3692
+  },
+  {
+    "id": "doc_10",
+    "title": "Barroco",
+    "title_raw": "Barroco",
+    "filename": "Barroco.pdf",
+    "text_length": 113526,
+    "term_count": 4107
+  },
+  {
+    "id": "doc_11",
+    "title": "Basquetebol",
+    "title_raw": "Basquetebol",
+    "filename": "Basquetebol.pdf",
+    "text_length": 32291,
+    "term_count": 996
+  },
+  {
+    "id": "doc_12",
+    "title": "Batman",
+    "title_raw": "Batman",
+    "filename": "Batman.pdf",
+    "text_length": 100985,
+    "term_count": 2888
+  },
+  {
+    "id": "doc_13",
+    "title": "Brasil",
+    "title_raw": "Brasil",
+    "filename": "Brasil.pdf",
+    "text_length": 199852,
+    "term_count": 5035
+  },
+  {
+    "id": "doc_14",
+    "title": "Brasília",
+    "title_raw": "Brasília",
+    "filename": "Brasília.pdf",
+    "text_length": 133976,
+    "term_count": 3326
+  },
+  {
+    "id": "doc_15",
+    "title": "Bullying",
+    "title_raw": "Bullying",
+    "filename": "Bullying.pdf",
+    "text_length": 94212,
+    "term_count": 3061
+  },
+  {
+    "id": "doc_16",
+    "title": "C (linguagem de programação)",
+    "title_raw": "C_(linguagem_de_programação)",
+    "filename": "C_(linguagem_de_programação).pdf",
+    "text_length": 29272,
+    "term_count": 952
+  },
+  {
+    "id": "doc_17",
+    "title": "Canadá",
+    "title_raw": "Canadá",
+    "filename": "Canadá.pdf",
+    "text_length": 170882,
+    "term_count": 4655
+  },
+  {
+    "id": "doc_18",
+    "title": "Capitalismo",
+    "title_raw": "Capitalismo",
+    "filename": "Capitalismo.pdf",
+    "text_length": 53657,
+    "term_count": 2208
+  },
+  {
+    "id": "doc_19",
+    "title": "Carnaval",
+    "title_raw": "Carnaval",
+    "filename": "Carnaval.pdf",
+    "text_length": 42488,
+    "term_count": 1640
+  },
+  {
+    "id": "doc_20",
+    "title": "Chuck Norris",
+    "title_raw": "Chuck_Norris",
+    "filename": "Chuck_Norris.pdf",
+    "text_length": 35628,
+    "term_count": 1586
+  },
+  {
+    "id": "doc_21",
+    "title": "Clube de Regatas do Flamengo",
+    "title_raw": "Clube_de_Regatas_do_Flamengo",
+    "filename": "Clube_de_Regatas_do_Flamengo.pdf",
+    "text_length": 102686,
+    "term_count": 2446
+  },
+  {
+    "id": "doc_22",
+    "title": "Contos de Grimm",
+    "title_raw": "Contos_de_Grimm",
+    "filename": "Contos_de_Grimm.pdf",
+    "text_length": 12734,
+    "term_count": 829
+  },
+  {
+    "id": "doc_23",
+    "title": "Copa Libertadores da América",
+    "title_raw": "Copa_Libertadores_da_América",
+    "filename": "Copa_Libertadores_da_América.pdf",
+    "text_length": 122662,
+    "term_count": 2315
+  },
+  {
+    "id": "doc_24",
+    "title": "Cristiano Ronaldo",
+    "title_raw": "Cristiano_Ronaldo",
+    "filename": "Cristiano_Ronaldo.pdf",
+    "text_length": 279004,
+    "term_count": 3974
+  },
+  {
+    "id": "doc_25",
+    "title": "Demi Lovato",
+    "title_raw": "Demi_Lovato",
+    "filename": "Demi_Lovato.pdf",
+    "text_length": 176482,
+    "term_count": 4195
+  },
+  {
+    "id": "doc_26",
+    "title": "Dia da Consciência Negra",
+    "title_raw": "Dia_da_Consciência_Negra",
+    "filename": "Dia_da_Consciência_Negra.pdf",
+    "text_length": 16551,
+    "term_count": 610
+  },
+  {
+    "id": "doc_27",
+    "title": "Dia das bruxas",
+    "title_raw": "Dia_das_bruxas",
+    "filename": "Dia_das_bruxas.pdf",
+    "text_length": 24844,
+    "term_count": 1100
+  },
+  {
+    "id": "doc_28",
+    "title": "Dia do amigo",
+    "title_raw": "Dia_do_amigo",
+    "filename": "Dia_do_amigo.pdf",
+    "text_length": 4809,
+    "term_count": 266
+  },
+  {
+    "id": "doc_29",
+    "title": "Dia dos Namorados",
+    "title_raw": "Dia_dos_Namorados",
+    "filename": "Dia_dos_Namorados.pdf",
+    "text_length": 8356,
+    "term_count": 410
+  },
+  {
+    "id": "doc_30",
+    "title": "Efeito estufa",
+    "title_raw": "Efeito_estufa",
+    "filename": "Efeito_estufa.pdf",
+    "text_length": 38620,
+    "term_count": 1618
+  },
+  {
+    "id": "doc_31",
+    "title": "Eike Batista",
+    "title_raw": "Eike_Batista",
+    "filename": "Eike_Batista.pdf",
+    "text_length": 61863,
+    "term_count": 1737
+  },
+  {
+    "id": "doc_32",
+    "title": "Espanha",
+    "title_raw": "Espanha",
+    "filename": "Espanha.pdf",
+    "text_length": 159112,
+    "term_count": 4579
+  },
+  {
+    "id": "doc_33",
+    "title": "Estados Unidos",
+    "title_raw": "Estados_Unidos",
+    "filename": "Estados_Unidos.pdf",
+    "text_length": 213371,
+    "term_count": 5863
+  },
+  {
+    "id": "doc_34",
+    "title": "Esteroide anabolizante",
+    "title_raw": "Esteroide_anabolizante",
+    "filename": "Esteroide_anabolizante.pdf",
+    "text_length": 63775,
+    "term_count": 2305
+  },
+  {
+    "id": "doc_35",
+    "title": "Europa",
+    "title_raw": "Europa",
+    "filename": "Europa.pdf",
+    "text_length": 96254,
+    "term_count": 2986
+  },
+  {
+    "id": "doc_36",
+    "title": "Everybody Hates Chris",
+    "title_raw": "Everybody_Hates_Chris",
+    "filename": "Everybody_Hates_Chris.pdf",
+    "text_length": 34288,
+    "term_count": 1287
+  },
+  {
+    "id": "doc_37",
+    "title": "Facebook",
+    "title_raw": "Facebook",
+    "filename": "Facebook.pdf",
+    "text_length": 74165,
+    "term_count": 2176
+  },
+  {
+    "id": "doc_38",
+    "title": "Figura de linguagem",
+    "title_raw": "Figura_de_linguagem",
+    "filename": "Figura_de_linguagem.pdf",
+    "text_length": 19115,
+    "term_count": 762
+  },
+  {
+    "id": "doc_39",
+    "title": "Filosofia",
+    "title_raw": "Filosofia",
+    "filename": "Filosofia.pdf",
+    "text_length": 103282,
+    "term_count": 3350
+  },
+  {
+    "id": "doc_40",
+    "title": "Getúlio Vargas",
+    "title_raw": "Getúlio_Vargas",
+    "filename": "Getúlio_Vargas.pdf",
+    "text_length": 104238,
+    "term_count": 2924
+  },
+  {
+    "id": "doc_41",
+    "title": "Glee",
+    "title_raw": "Glee",
+    "filename": "Glee.pdf",
+    "text_length": 66959,
+    "term_count": 2408
+  },
+  {
+    "id": "doc_42",
+    "title": "Globalização",
+    "title_raw": "Globalização",
+    "filename": "Globalização.pdf",
+    "text_length": 34127,
+    "term_count": 1469
+  },
+  {
+    "id": "doc_43",
+    "title": "Google",
+    "title_raw": "Google",
+    "filename": "Google.pdf",
+    "text_length": 116906,
+    "term_count": 3364
+  },
+  {
+    "id": "doc_44",
+    "title": "Guerra Fria",
+    "title_raw": "Guerra_Fria",
+    "filename": "Guerra_Fria.pdf",
+    "text_length": 176323,
+    "term_count": 4754
+  },
+  {
+    "id": "doc_45",
+    "title": "Ian Somerhalder",
+    "title_raw": "Ian_Somerhalder",
+    "filename": "Ian_Somerhalder.pdf",
+    "text_length": 31055,
+    "term_count": 1247
+  },
+  {
+    "id": "doc_46",
+    "title": "Iluminismo",
+    "title_raw": "Iluminismo",
+    "filename": "Iluminismo.pdf",
+    "text_length": 135708,
+    "term_count": 4093
+  },
+  {
+    "id": "doc_47",
+    "title": "Independência do Brasil",
+    "title_raw": "Independência_do_Brasil",
+    "filename": "Independência_do_Brasil.pdf",
+    "text_length": 52934,
+    "term_count": 1740
+  },
+  {
+    "id": "doc_48",
+    "title": "Internet",
+    "title_raw": "Internet",
+    "filename": "Internet.pdf",
+    "text_length": 127514,
+    "term_count": 3770
+  },
+  {
+    "id": "doc_49",
+    "title": "Jogos Olímpicos",
+    "title_raw": "Jogos_Olímpicos",
+    "filename": "Jogos_Olímpicos.pdf",
+    "text_length": 112008,
+    "term_count": 2975
+  },
+  {
+    "id": "doc_50",
+    "title": "Jogos Olímpicos de Verão de 2012",
+    "title_raw": "Jogos_Olímpicos_de_Verão_de_2012",
+    "filename": "Jogos_Olímpicos_de_Verão_de_2012.pdf",
+    "text_length": 70704,
+    "term_count": 2560
+  },
+  {
+    "id": "doc_51",
+    "title": "Johnny Depp",
+    "title_raw": "Johnny_Depp",
+    "filename": "Johnny_Depp.pdf",
+    "text_length": 71303,
+    "term_count": 2342
+  },
+  {
+    "id": "doc_52",
+    "title": "Justin Bieber",
+    "title_raw": "Justin_Bieber",
+    "filename": "Justin_Bieber.pdf",
+    "text_length": 121086,
+    "term_count": 3138
+  },
+  {
+    "id": "doc_53",
+    "title": "Karl Marx",
+    "title_raw": "Karl_Marx",
+    "filename": "Karl_Marx.pdf",
+    "text_length": 63757,
+    "term_count": 2282
+  },
+  {
+    "id": "doc_54",
+    "title": "Kurt Cobain",
+    "title_raw": "Kurt_Cobain",
+    "filename": "Kurt_Cobain.pdf",
+    "text_length": 61461,
+    "term_count": 2209
+  },
+  {
+    "id": "doc_55",
+    "title": "Leis de Newton",
+    "title_raw": "Leis_de_Newton",
+    "filename": "Leis_de_Newton.pdf",
+    "text_length": 32329,
+    "term_count": 1098
+  },
+  {
+    "id": "doc_56",
+    "title": "Leonardo da Vinci",
+    "title_raw": "Leonardo_da_Vinci",
+    "filename": "Leonardo_da_Vinci.pdf",
+    "text_length": 122609,
+    "term_count": 3655
+  },
+  {
+    "id": "doc_57",
+    "title": "Lionel Messi",
+    "title_raw": "Lionel_Messi",
+    "filename": "Lionel_Messi.pdf",
+    "text_length": 290856,
+    "term_count": 4291
+  },
+  {
+    "id": "doc_58",
+    "title": "Luiz Gonzaga",
+    "title_raw": "Luiz_Gonzaga",
+    "filename": "Luiz_Gonzaga.pdf",
+    "text_length": 31605,
+    "term_count": 1321
+  },
+  {
+    "id": "doc_59",
+    "title": "Maçonaria",
+    "title_raw": "Maçonaria",
+    "filename": "Maçonaria.pdf",
+    "text_length": 58754,
+    "term_count": 2294
+  },
+  {
+    "id": "doc_60",
+    "title": "Meio ambiente",
+    "title_raw": "Meio_ambiente",
+    "filename": "Meio_ambiente.pdf",
+    "text_length": 29142,
+    "term_count": 1187
+  },
+  {
+    "id": "doc_61",
+    "title": "Mitologia grega",
+    "title_raw": "Mitologia_grega",
+    "filename": "Mitologia_grega.pdf",
+    "text_length": 134293,
+    "term_count": 3971
+  },
+  {
+    "id": "doc_62",
+    "title": "Neymar",
+    "title_raw": "Neymar",
+    "filename": "Neymar.pdf",
+    "text_length": 245588,
+    "term_count": 4075
+  },
+  {
+    "id": "doc_63",
+    "title": "One Direction",
+    "title_raw": "One_Direction",
+    "filename": "One_Direction.pdf",
+    "text_length": 74894,
+    "term_count": 2186
+  },
+  {
+    "id": "doc_64",
+    "title": "Orkut",
+    "title_raw": "Orkut",
+    "filename": "Orkut.pdf",
+    "text_length": 29937,
+    "term_count": 980
+  },
+  {
+    "id": "doc_65",
+    "title": "Oscar Niemeyer",
+    "title_raw": "Oscar_Niemeyer",
+    "filename": "Oscar_Niemeyer.pdf",
+    "text_length": 86787,
+    "term_count": 2648
+  },
+  {
+    "id": "doc_66",
+    "title": "Portugal",
+    "title_raw": "Portugal",
+    "filename": "Portugal.pdf",
+    "text_length": 173540,
+    "term_count": 4541
+  },
+  {
+    "id": "doc_67",
+    "title": "Primeira Guerra Mundial",
+    "title_raw": "Primeira_Guerra_Mundial",
+    "filename": "Primeira_Guerra_Mundial.pdf",
+    "text_length": 186377,
+    "term_count": 5097
+  },
+  {
+    "id": "doc_68",
+    "title": "Proclamação da República do Brasil",
+    "title_raw": "Proclamação_da_República_do_Brasil",
+    "filename": "Proclamação_da_República_do_Brasil.pdf",
+    "text_length": 33660,
+    "term_count": 1290
+  },
+  {
+    "id": "doc_69",
+    "title": "Psicologia",
+    "title_raw": "Psicologia",
+    "filename": "Psicologia.pdf",
+    "text_length": 122924,
+    "term_count": 3655
+  },
+  {
+    "id": "doc_70",
+    "title": "Região Nordeste do Brasil",
+    "title_raw": "Região_Nordeste_do_Brasil",
+    "filename": "Região_Nordeste_do_Brasil.pdf",
+    "text_length": 147351,
+    "term_count": 3742
+  },
+  {
+    "id": "doc_71",
+    "title": "Reino Unido",
+    "title_raw": "Reino_Unido",
+    "filename": "Reino_Unido.pdf",
+    "text_length": 188603,
+    "term_count": 4892
+  },
+  {
+    "id": "doc_72",
+    "title": "Renascimento",
+    "title_raw": "Renascimento",
+    "filename": "Renascimento.pdf",
+    "text_length": 147669,
+    "term_count": 4620
+  },
+  {
+    "id": "doc_73",
+    "title": "Revolução Francesa",
+    "title_raw": "Revolução_Francesa",
+    "filename": "Revolução_Francesa.pdf",
+    "text_length": 72200,
+    "term_count": 2399
+  },
+  {
+    "id": "doc_74",
+    "title": "Revolução Industrial",
+    "title_raw": "Revolução_Industrial",
+    "filename": "Revolução_Industrial.pdf",
+    "text_length": 70779,
+    "term_count": 2526
+  },
+  {
+    "id": "doc_75",
+    "title": "RMS Titanic",
+    "title_raw": "RMS_Titanic",
+    "filename": "RMS_Titanic.pdf",
+    "text_length": 84832,
+    "term_count": 2398
+  },
+  {
+    "id": "doc_76",
+    "title": "Romantismo",
+    "title_raw": "Romantismo",
+    "filename": "Romantismo.pdf",
+    "text_length": 57427,
+    "term_count": 2286
+  },
+  {
+    "id": "doc_77",
+    "title": "Segunda Guerra Mundial",
+    "title_raw": "Segunda_Guerra_Mundial",
+    "filename": "Segunda_Guerra_Mundial.pdf",
+    "text_length": 146276,
+    "term_count": 4036
+  },
+  {
+    "id": "doc_78",
+    "title": "Selena Gomez",
+    "title_raw": "Selena_Gomez",
+    "filename": "Selena_Gomez.pdf",
+    "text_length": 85202,
+    "term_count": 2534
+  },
+  {
+    "id": "doc_79",
+    "title": "Sistema Solar",
+    "title_raw": "Sistema_Solar",
+    "filename": "Sistema_Solar.pdf",
+    "text_length": 151539,
+    "term_count": 2949
+  },
+  {
+    "id": "doc_80",
+    "title": "Slipknot",
+    "title_raw": "Slipknot",
+    "filename": "Slipknot.pdf",
+    "text_length": 49292,
+    "term_count": 1571
+  },
+  {
+    "id": "doc_81",
+    "title": "Sociedade Esportiva Palmeiras",
+    "title_raw": "Sociedade_Esportiva_Palmeiras",
+    "filename": "Sociedade_Esportiva_Palmeiras.pdf",
+    "text_length": 109455,
+    "term_count": 2510
+  },
+  {
+    "id": "doc_82",
+    "title": "Sociologia",
+    "title_raw": "Sociologia",
+    "filename": "Sociologia.pdf",
+    "text_length": 121875,
+    "term_count": 3305
+  },
+  {
+    "id": "doc_83",
+    "title": "Sport Club Corinthians Paulista",
+    "title_raw": "Sport_Club_Corinthians_Paulista",
+    "filename": "Sport_Club_Corinthians_Paulista.pdf",
+    "text_length": 142012,
+    "term_count": 2876
+  },
+  {
+    "id": "doc_84",
+    "title": "Sustentabilidade",
+    "title_raw": "Sustentabilidade",
+    "filename": "Sustentabilidade.pdf",
+    "text_length": 29180,
+    "term_count": 1178
+  },
+  {
+    "id": "doc_85",
+    "title": "São Paulo (cidade)",
+    "title_raw": "São_Paulo_(cidade)",
+    "filename": "São_Paulo_(cidade).pdf",
+    "text_length": 213012,
+    "term_count": 4778
+  },
+  {
+    "id": "doc_86",
+    "title": "São Paulo Futebol Clube",
+    "title_raw": "São_Paulo_Futebol_Clube",
+    "filename": "São_Paulo_Futebol_Clube.pdf",
+    "text_length": 107865,
+    "term_count": 2627
+  },
+  {
+    "id": "doc_87",
+    "title": "Sócrates",
+    "title_raw": "Sócrates",
+    "filename": "Sócrates.pdf",
+    "text_length": 46951,
+    "term_count": 1655
+  },
+  {
+    "id": "doc_88",
+    "title": "The Beatles",
+    "title_raw": "The_Beatles",
+    "filename": "The_Beatles.pdf",
+    "text_length": 144377,
+    "term_count": 3771
+  },
+  {
+    "id": "doc_89",
+    "title": "The Vampire Diaries (série)",
+    "title_raw": "The_Vampire_Diaries_(série)",
+    "filename": "The_Vampire_Diaries_(série).pdf",
+    "text_length": 95046,
+    "term_count": 1936
+  },
+  {
+    "id": "doc_90",
+    "title": "The Walking Dead",
+    "title_raw": "The_Walking_Dead",
+    "filename": "The_Walking_Dead.pdf",
+    "text_length": 37563,
+    "term_count": 1142
+  },
+  {
+    "id": "doc_91",
+    "title": "Voleibol",
+    "title_raw": "Voleibol",
+    "filename": "Voleibol.pdf",
+    "text_length": 31055,
+    "term_count": 860
+  },
+  {
+    "id": "doc_92",
+    "title": "WordPress",
+    "title_raw": "WordPress",
+    "filename": "WordPress.pdf",
+    "text_length": 43727,
+    "term_count": 1296
+  },
+  {
+    "id": "doc_93",
+    "title": "YouTube",
+    "title_raw": "YouTube",
+    "filename": "YouTube.pdf",
+    "text_length": 60704,
+    "term_count": 2154
+  },
+  {
+    "id": "doc_94",
+    "title": "África",
+    "title_raw": "África",
+    "filename": "África.pdf",
+    "text_length": 73734,
+    "term_count": 2485
+  },
+  {
+    "id": "doc_95",
+    "title": "Água",
+    "title_raw": "Água",
+    "filename": "Água.pdf",
+    "text_length": 77304,
+    "term_count": 2412
+  },
+  {
+    "id": "doc_96",
+    "title": "Ética",
+    "title_raw": "Ética",
+    "filename": "Ética.pdf",
+    "text_length": 54798,
+    "term_count": 1728
+  }
+]
