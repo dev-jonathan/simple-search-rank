@@ -43,9 +43,6 @@ Thumbs.db
 *.md
 docs/
 
-# Cache (será criado no container)
-cache/*.json
-!cache/.gitkeep
 
 # PDFs (não devem estar no build, serão montados ou baixados)
 pdf_dataset/
