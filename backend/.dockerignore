@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+docs/
+
+# Cache (será criado no container)
+cache/*.json
+!cache/.gitkeep
+
+# PDFs (não devem estar no build, serão montados ou baixados)
+pdf_dataset/
+
+# Reports
+frequency_report.txt
+
+# Docker
+Dockerfile*
+.dockerignore
+docker-compose*.yml
+
+# Conda
+environment.yml
+*.yml
+!requirements.txt
+
+# Scripts de desenvolvimento
+setup.sh
+setup.ps1
+
+# Testes
+tests/
+test_*.py
+*_test.py
+.pytest_cache/
+.coverage
+htmlcov/

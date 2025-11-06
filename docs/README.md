@@ -72,6 +72,15 @@ echo "DOWNLOAD_PDFS=true" > .env  # Para desenvolvimento local
 - `DOWNLOAD_PDFS`: `true` para baixar PDFs automaticamente do GitHub, `false` para usar apenas cache
 - `CORPUS_PATH`: Caminho customizado para o corpus (opcional)
 
+#### 5. (Alternativa) Ou use Docker
+
+```bash
+cd backend
+docker build -t search-rank-api .
+docker images
+docker run -p 8000:8000 -e DOWNLOAD_PDFS=false -e CORPUS_PATH=/app/pdf_dataset search-rank-api
+docker logs -f search-rank-api
+```
 ### Frontend (Next.js)
 
 ```bash
